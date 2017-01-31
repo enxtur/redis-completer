@@ -15,4 +15,5 @@
 
 # locally installed node modules
 node_modules
+.idea
 
